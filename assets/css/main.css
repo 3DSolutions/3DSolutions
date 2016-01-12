@@ -3711,3 +3711,25 @@
 		}
 
 	}
+
+/* Custom Styles */
+.computer {
+  background-image: url("../../images/imac.png");
+  background-repeat: no-repeat;
+  height: 800px;
+  width: 1000px;
+  margin: 0 auto 30px;
+  position: relative;
+}
+
+.computer-screen {
+  height: 469px;
+  width: 861px; 
+  position: absolute;
+  top: 38px;
+  left: 38px;
+}
+
+.computer-button {
+	/*TBA*/
+}

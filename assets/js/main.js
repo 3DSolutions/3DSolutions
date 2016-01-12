@@ -164,3 +164,9 @@
 	});
 
 })(jQuery);
+
+$(".computer-button").click(function(){
+	console.log("Test")
+	var screen = $("#screen");
+	screen.attr("src", "assets/html/egg.html");
+})
